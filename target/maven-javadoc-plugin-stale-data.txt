@@ -1,0 +1,25 @@
+cmd.exe
+/X
+/C
+"C:\Users\jhon.moreno\scoop\apps\openjdk13\current\bin\javadoc.exe @options @packages"
+D:\Source\training-diagram-doc\target\apidocs\allclasses-index.html = 1630900272539
+D:\Source\training-diagram-doc\target\apidocs\allpackages-index.html = 1630900272545
+D:\Source\training-diagram-doc\target\apidocs\constant-values.html = 1630900272397
+D:\Source\training-diagram-doc\target\apidocs\deprecated-list.html = 1630900272487
+D:\Source\training-diagram-doc\target\apidocs\element-list = 1630900272333
+D:\Source\training-diagram-doc\target\apidocs\help-doc.html = 1630900272557
+D:\Source\training-diagram-doc\target\apidocs\index-all.html = 1630900272524
+D:\Source\training-diagram-doc\target\apidocs\index.html = 1630900272549
+D:\Source\training-diagram-doc\target\apidocs\member-search-index.js = 1630900272518
+D:\Source\training-diagram-doc\target\apidocs\member-search-index.zip = 1630900272521
+D:\Source\training-diagram-doc\target\apidocs\options = 1630900269889
+D:\Source\training-diagram-doc\target\apidocs\overview-tree.html = 1630900272472
+D:\Source\training-diagram-doc\target\apidocs\package-dependencies.svg = 1630899733187
+D:\Source\training-diagram-doc\target\apidocs\package-search-index.js = 1630900272508
+D:\Source\training-diagram-doc\target\apidocs\package-search-index.zip = 1630900272513
+D:\Source\training-diagram-doc\target\apidocs\packages = 1630900269891
+D:\Source\training-diagram-doc\target\apidocs\script.js = 1630900272581
+D:\Source\training-diagram-doc\target\apidocs\search.js = 1630900272597
+D:\Source\training-diagram-doc\target\apidocs\stylesheet.css = 1630900272566
+D:\Source\training-diagram-doc\target\apidocs\type-search-index.js = 1630900272515
+D:\Source\training-diagram-doc\target\apidocs\type-search-index.zip = 1630900272517

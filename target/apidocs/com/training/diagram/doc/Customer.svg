@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="73px" preserveAspectRatio="none" style="width:191px;height:73px;background:#FFFFFF;" version="1.1" viewBox="0 0 191 73" width="191px" zoomAndPan="magnify"><defs><filter height="300%" id="f15yyi63tcoumu" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[6c52b17fada4598105e83393938caae3]
+class com.training.diagram.doc.Customer--><a href="Customer.html" target="_top" title="Customer.html" xlink:actuate="onRequest" xlink:href="Customer.html" xlink:show="new" xlink:title="Customer.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f15yyi63tcoumu)" height="40.1875" id="com.training.diagram.doc.Customer" style="stroke:#A80036;stroke-width:1.5;" width="155" x="14.5" y="7"/><ellipse cx="29.5" cy="27.0938" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M32.2656,22.9688 Q32.4219,22.75 32.6094,22.6406 Q32.7969,22.5313 33.0156,22.5313 Q33.3906,22.5313 33.625,22.7969 Q33.8594,23.0469 33.8594,23.6563 L33.8594,25.1094 Q33.8594,25.7188 33.625,25.9844 Q33.3906,26.25 33.0156,26.25 Q32.6719,26.25 32.4688,26.0469 Q32.2656,25.8594 32.1563,25.3438 Q32.1094,24.9844 31.9219,24.7969 Q31.5938,24.4219 30.9844,24.2031 Q30.375,23.9844 29.75,23.9844 Q28.9844,23.9844 28.3438,24.3125 Q27.7188,24.6406 27.2188,25.3906 Q26.7344,26.1406 26.7344,27.1719 L26.7344,28.2656 Q26.7344,29.5 27.625,30.3281 Q28.5156,31.1406 30.1094,31.1406 Q31.0469,31.1406 31.7031,30.8906 Q32.0938,30.7344 32.5156,30.2969 Q32.7813,30.0313 32.9219,29.9531 Q33.0781,29.875 33.2813,29.875 Q33.6094,29.875 33.8594,30.1406 Q34.125,30.3906 34.125,30.7344 Q34.125,31.0781 33.7813,31.4844 Q33.2813,32.0625 32.4844,32.3906 Q31.4063,32.8438 30.1094,32.8438 Q28.5938,32.8438 27.3906,32.2188 Q26.4063,31.7188 25.7188,30.6563 Q25.0313,29.5781 25.0313,28.2969 L25.0313,27.1406 Q25.0313,25.8125 25.6406,24.6719 Q26.2656,23.5156 27.3594,22.9063 Q28.4531,22.2813 29.6875,22.2813 Q30.4219,22.2813 31.0625,22.4531 Q31.7188,22.6094 32.2656,22.9688 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="74.5" y="26.5332">Customer</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="123" x="43.5" y="39.9902">com.training.diagram.doc</text></a><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="184" x="0" y="64.5684">UMLDoclet 2.0.14, PlantUML 1.2021.9</text><!--MD5=[674ea7e440b5ea1140c1124f342a2e63]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>Customer\n<size:10>com.training.diagram.doc" as com.training.diagram.doc.Customer [[Customer.html]] {
+    }
+
+    center footer UMLDoclet 2.0.14, PlantUML 1.2021.9
+@enduml
+
+PlantUML version 1.2021.9(Sun Jul 25 05:13:56 COT 2021)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: CO
+--></g></svg>
